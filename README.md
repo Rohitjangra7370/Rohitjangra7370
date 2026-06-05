@@ -14,13 +14,13 @@
 
 Robotics engineer focused on autonomous navigation, aerial systems, and field robotics. Software Lead at **Team Deimos** (University Rover Challenge) — **ARC 2026 Finals Qualifier**. **Bronze Medal, Inter IIT Tech Meet 14.0** (national, 23 IITs).
 
-## Tech Stack
+## Stack
 
 **Autonomy & Navigation**
 
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
 ![Nav2](https://img.shields.io/badge/Nav2-22314E?style=flat&logo=ros&logoColor=white)
-![SLAM](https://img.shields.io/badge/SLAM_Cartographer-22314E?style=flat)
+![SLAM Cartographer](https://img.shields.io/badge/SLAM_Cartographer-22314E?style=flat)
 ![MoveIt2](https://img.shields.io/badge/MoveIt2-22314E?style=flat)
 
 **Perception & ML**
@@ -30,8 +30,8 @@ Robotics engineer focused on autonomous navigation, aerial systems, and field ro
 
 **Hardware**
 
-![Jetson](https://img.shields.io/badge/Jetson_Orin_Nano-76B900?style=flat&logo=nvidia&logoColor=white)
-![Pixhawk](https://img.shields.io/badge/Pixhawk_6C-0A0A0A?style=flat)
+![Jetson Orin Nano](https://img.shields.io/badge/Jetson_Orin_Nano-76B900?style=flat&logo=nvidia&logoColor=white)
+![Pixhawk 6C](https://img.shields.io/badge/Pixhawk_6C-0A0A0A?style=flat)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
 
 **Languages**
@@ -48,19 +48,14 @@ Robotics engineer focused on autonomous navigation, aerial systems, and field ro
 | [Line Maze Solver](https://github.com/Rohitjangra7370/Line_Maze_Solver) | Autonomous differential-drive robot with PID line-following in Gazebo | ROS2, OpenCV, Python |
 | [6-DOF Robotic Manipulator](https://github.com/Rohitjangra7370/robotic_manipulator_6_dof) | Forward/inverse kinematics + MoveIt2 motion planning | ROS2, MoveIt2, C++ |
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohitjangra7370&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=2563EB&text_color=E6EDF3" height="160"/>
-  <img src="https://streak-stats.demolab.com/?user=Rohitjangra7370&theme=github-dark-blue&hide_border=true&background=0D1117&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=E6EDF3&dates=8B949E" height="160"/>
-</div>
-
 ## Achievements
 
-- **Bronze Medal** — Inter IIT Tech Meet 14.0 (national, 23 IITs)
-- **ARC 2026 Finals** — Anatolian Rover Challenge, international competition
-- **Software Lead** — Team Deimos, University Rover Challenge (URC)
-- **Technical Co-Coordinator** — Robotronics Club, IIT Mandi (50+ members)
+| | |
+|---|---|
+| Bronze Medal | Inter IIT Tech Meet 14.0 — national competition, 23 IITs |
+| ARC 2026 Finals | Anatolian Rover Challenge — international competition |
+| Software Lead | Team Deimos, University Rover Challenge (URC) |
+| Technical Co-Coordinator | Robotronics Club, IIT Mandi — 50+ members |
 
 ---
 
