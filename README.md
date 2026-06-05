@@ -51,13 +51,8 @@ Robotics engineer focused on autonomous navigation, aerial systems, and field ro
 ## GitHub Stats
 
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohitjangra7370&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=2563EB&text_color=E6EDF3)](https://github.com/Rohitjangra7370)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rohitjangra7370&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=E6EDF3&dates=8B949E)](https://github.com/Rohitjangra7370)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitjangra7370&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=E6EDF3&langs_count=6)](https://github.com/Rohitjangra7370)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohitjangra7370&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=2563EB&text_color=E6EDF3" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=Rohitjangra7370&theme=github-dark-blue&hide_border=true&background=0D1117&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=E6EDF3&dates=8B949E" height="160"/>
 </div>
 
 ## Achievements
