@@ -2,7 +2,9 @@
 
 # Rohit Jangra
 
-**B.Tech Robotics & Autonomous Systems · IIT Mandi · 2024–2028**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=560&lines=Robotics+%26+Autonomous+Systems+%7C+IIT+Mandi;ROS2+%7C+SLAM+%7C+Nav2+%7C+MoveIt2+%7C+PX4;ARC+2026+International+Finalist;Open+to+Research+Internships+%E2%80%94+Japan+2026" alt="Typing animation" />
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohitjangra7370)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rohitjangra7370@gmail.com)
@@ -12,11 +14,16 @@
 
 ---
 
-Robotics engineer focused on autonomous navigation, aerial systems, and field robotics. Software Lead at **Team Deimos** (University Rover Challenge) — **ARC 2026 Finals Qualifier**. **Bronze Medal, Inter IIT Tech Meet 14.0** (national, 23 IITs).
+2nd year B.Tech at IIT Mandi, building robots that navigate, perceive, and act autonomously. Software Lead at **Team Deimos** (URC Mars Rover) — **Anatolian Rover Challenge 2026 Finals**. **Bronze Medal, Inter IIT Tech Meet 14.0** across 23 IITs.
+
+## Currently
+
+- Leading autonomy stack for Team Deimos (URC 2027 prep — SLAM, Nav2, arm control)
+- Seeking robotics research internship in Japan · Available **now – Oct 1, 2026**
 
 ## Stack
 
-**Autonomy & Navigation**
+**Autonomy**
 
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
 ![Nav2](https://img.shields.io/badge/Nav2-22314E?style=flat&logo=ros&logoColor=white)
@@ -41,26 +48,29 @@ Robotics engineer focused on autonomous navigation, aerial systems, and field ro
 
 ## Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [RTH Fault-Tolerant Quadcopter](https://github.com/Rohitjangra7370/RTH_Fault_Tolerant_Quadcopter) | Single-motor failure detection + autonomous RTH recovery · Inter IIT Tech Meet 13.0 | ROS2, PX4, Python |
-| [NMPC Drone Control](https://github.com/Rohitjangra7370/ros_ws_nmpc_Drone_ps) | Nonlinear MPC for PX4 quadrotor via ROS2 + Micro-XRCE-DDS | ROS2, C++, PX4 |
-| [Line Maze Solver](https://github.com/Rohitjangra7370/Line_Maze_Solver) | Autonomous differential-drive robot with PID line-following in Gazebo | ROS2, OpenCV, Python |
-| [6-DOF Robotic Manipulator](https://github.com/Rohitjangra7370/robotic_manipulator_6_dof) | Forward/inverse kinematics + MoveIt2 motion planning | ROS2, MoveIt2, C++ |
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| [RTH Fault-Tolerant Quadcopter](https://github.com/Rohitjangra7370/RTH_Fault_Tolerant_Quadcopter) | Detects single motor failure mid-flight and autonomously returns to home — Inter IIT Tech Meet 13.0 | ROS2, PX4, Python |
+| [NMPC Drone Control](https://github.com/Rohitjangra7370/ros_ws_nmpc_Drone_ps) | Nonlinear Model Predictive Controller for PX4 quadrotor, bridged via ROS2 + Micro-XRCE-DDS | ROS2, C++, PX4 |
+| [Frontier Exploration](https://github.com/Rohitjangra7370/Frontier_Exploration_NAV2-Task_2) | Robot maps unknown environments autonomously by navigating to unexplored frontiers via Nav2 | ROS2, Nav2, SLAM |
+| [Line Maze Solver](https://github.com/Rohitjangra7370/Line_Maze_Solver) | Differential-drive robot follows and solves line mazes using OpenCV + PID in Gazebo | ROS2, OpenCV, Python |
+| [6-DOF Robotic Manipulator](https://github.com/Rohitjangra7370/robotic_manipulator_6_dof) | Full kinematics stack with MoveIt2 motion planning and collision-aware trajectory execution | ROS2, MoveIt2, C++ |
 
 ## Achievements
 
-| | |
-|---|---|
+| Award | Event |
+|-------|-------|
 | Bronze Medal | Inter IIT Tech Meet 14.0 — national competition, 23 IITs |
-| ARC 2026 Finals | Anatolian Rover Challenge — international competition |
-| Software Lead | Team Deimos, University Rover Challenge (URC) |
+| International Finalist | Anatolian Rover Challenge (ARC) 2026 |
+| Software Lead | Team Deimos — University Rover Challenge (URC) |
 | Technical Co-Coordinator | Robotronics Club, IIT Mandi — 50+ members |
 
 ---
 
 <div align="center">
 
-*Open to research internships · May–Oct 2026 (available now) · Oct 2026–Feb 2027 (Kagawa University, Japan) · May–Aug 2027*
+**Available for research internships**
+
+May–Oct 2026 (now) · Oct 2026–Feb 2027 (Kagawa University, Japan) · May–Aug 2027
 
 </div>
