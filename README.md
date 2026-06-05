@@ -8,17 +8,17 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohitjangra7370)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rohitjangra7370@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-PDF-18181B?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1HGtRO3LVFNBXLjdUBiVoqtPDze-LZ5DU/view)
+[![Resume](https://img.shields.io/badge/Resume-PDF-18181B?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1j_kZJyXHRdx1GvXGHqptzF7VfID3gHBa/view?usp=sharing)
 
 </div>
 
 ---
 
-2nd year B.Tech at IIT Mandi building robots that navigate, perceive, and act autonomously. Software Lead at **Team Deimos** (URC Mars Rover). **Foundation Day Award for Outstanding Technical Performance** — presented by Prof. Oussama Khatib (Stanford). **Bronze Medal, Inter IIT Tech Meet 14.0** (23 IITs).
+2nd year B.Tech at IIT Mandi, building robots that navigate, perceive, and act autonomously. Software Lead at **Team Deimos** (URC Mars Rover) — **Anatolian Rover Challenge 2026 Finals**. **Bronze Medal, Inter IIT Tech Meet 14.0** across 23 IITs. **Foundation Day Award** presented by Prof. Oussama Khatib (Stanford).
 
 ## Currently
 
-- Leading full autonomy stack for Team Deimos — ROS2, sensor fusion, 6-DOF arm, URC 2027 prep
+- Leading autonomy stack for Team Deimos (URC 2027 prep — SLAM, Nav2, arm control)
 - Seeking robotics research internship in Japan · Available **now – Oct 1, 2026**
 
 ## Stack
