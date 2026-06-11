@@ -19,7 +19,6 @@
 ## Currently
 
 - Leading autonomy stack for Team Deimos (URC 2027 prep — SLAM, Nav2, arm control)
-- Seeking robotics research internship in Japan · Available **now – Oct 1, 2026**
 
 ## Stack
 
